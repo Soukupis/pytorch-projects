@@ -1,1 +1,3 @@
 # Bigram
+
+![Bigram](image.png)
